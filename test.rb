@@ -21,5 +21,5 @@ chance_of_rain = 1
 # puts 'either way wear spf'
 
 puts "guess what year?"
-this_year = 2019
+this_year = 2020
 puts "its not 2019" unless this_year == 2019
