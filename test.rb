@@ -9,7 +9,7 @@
 # end
 # puts "code after if...end"
 
-chance_of_rain = 0.2 
+chance_of_rain = 0.8 
 puts "lets go out"
 if chance_of_rain > 0.5
   puts "umbrella"
