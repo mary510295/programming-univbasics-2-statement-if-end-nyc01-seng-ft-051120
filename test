@@ -1,4 +1,3 @@
-
 if true
-  puts "This code runs!"
+puts "this code runs!"
 end
