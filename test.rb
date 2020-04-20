@@ -10,12 +10,16 @@
 # puts "code after if...end"
 
 chance_of_rain = 1 
-puts "lets go out"
-if chance_of_rain <= 0.25
-  puts "sun shelter"
-elsif (chance_of_rain > 0.25 && chance_of_rain < 0.75)
-puts 'umbrella'
-else
-  puts "stay home"
-end
-puts 'either way wear spf'
+# puts "lets go out"
+# if chance_of_rain <= 0.25
+#   puts "sun shelter"
+# elsif (chance_of_rain > 0.25 && chance_of_rain < 0.75)
+# puts 'umbrella'
+# else
+#   puts "stay home"
+# end
+# puts 'either way wear spf'
+
+puts "guess what year?"
+this_year = 2019
+puts "its 2019" if this_year == 2019
