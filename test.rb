@@ -20,6 +20,3 @@ chance_of_rain = 1
 # end
 # puts 'either way wear spf'
 
-puts "guess what year?"
-this_year = 2020
-puts "its " + Time.now.year
